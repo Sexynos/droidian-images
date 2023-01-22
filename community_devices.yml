@@ -12,3 +12,4 @@ samsung_starlte:
   packages:
     - adaptation-droidian-exynos9810
     - adaptation-exynos9810-configs
+    - qtwayland5
